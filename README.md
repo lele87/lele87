@@ -1,11 +1,11 @@
-### <h2 align="center"> Sobre mi 👨🏻‍💻 </h2>
-<p align="center">Hola! Me llamo Emanuele y soy un desarrollador Full-Stack, he trabajado principalmente con aplicaciones React. Con ganas de aprender nuevas cosas y nuevos desafíos!
+### <h2 align="center"> About me 👨🏻‍💻 </h2>
+<p align="center">Hello! My name's Emanuele and I'm a Full-Stack developer. I'm dedicated to programming after leading two companies for the last 10 years that have given me valuable experience leading teams, managing responsibilities and making decisions.</p>
 
-He pasado recientemente al mundo de la programación después de haber tenido dos empresas durante los últimos 10 años, que me han aportado mucha experiencia en cuanto a gestionar equipos de trabajo, tomar decisiones y responsabilidades a nivel profesional.</p>
+<p align="center">Specialized on MERN applications.</p>
 
 ---
 
-### <h2 align="center">Lenguajes y herramientas 🛠</h2>
+### <h2 align="center">Languages and tools 🛠</h2>
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
@@ -25,13 +25,14 @@ He pasado recientemente al mundo de la programación después de haber tenido do
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
- <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp" title="Cypress" alt="Cypress" width="120" height="40"/>&nbsp;
+ <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp" title="Cypress" alt="Cypress" width="70" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
 
 <div align="center">
- <h2>Mis Estadisticas 📊</h2>
+ <h2>My Stats 📊</h2>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lele87&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -41,7 +42,7 @@ He pasado recientemente al mundo de la programación después de haber tenido do
 ---
 
 <div align="center">
-<h3>Info Contacto 💡</h3>
+<h3>Contact Info 💡</h3>
 <div id="badges">
   <a href="mailto:emanuelepanesi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
